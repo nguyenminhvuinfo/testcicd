@@ -1,0 +1,9 @@
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Assigment02.exe
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Assigment02.dll
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Assigment02.deps.json
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Assigment02.runtimeconfig.json
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Assigment02.pdb
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\HCMUE\DevOps\Assigment02\Assigment02\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll

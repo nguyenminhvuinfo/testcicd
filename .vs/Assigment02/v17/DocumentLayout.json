@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCMUE\\DevOps\\Assigment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AA76E6-1975-49FE-A4D1-6374D2B8F169}|DemoTest\\DemoTest.csproj|d:\\hcmue\\devops\\assigment02\\demotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AA76E6-1975-49FE-A4D1-6374D2B8F169}|DemoTest\\DemoTest.csproj|solutionrelative:demotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050F3512-ECB6-4676-BC3E-6ACE4CD26C95}|Assigment02\\Assigment02.csproj|d:\\hcmue\\devops\\assigment02\\assigment02\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{050F3512-ECB6-4676-BC3E-6ACE4CD26C95}|Assigment02\\Assigment02.csproj|solutionrelative:assigment02\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\HCMUE\\DevOps\\Assigment02\\DemoTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DemoTest\\UnitTest1.cs",
+              "ToolTip": "D:\\HCMUE\\DevOps\\Assigment02\\DemoTest\\UnitTest1.cs",
+              "RelativeToolTip": "DemoTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:43:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\HCMUE\\DevOps\\Assigment02\\Assigment02\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Assigment02\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\HCMUE\\DevOps\\Assigment02\\Assigment02\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Assigment02\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-31T15:40:46.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
